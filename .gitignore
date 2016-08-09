@@ -1,8 +1,2 @@
-.idea/
-gen/
+.anvil
 .DS_Store
-Pods/
-Podfile.lock
-xcuserdata/
-*.xcworkspace/
-GoogleService-Info.plist
